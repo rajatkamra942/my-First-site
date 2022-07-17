@@ -1,0 +1,52 @@
+body {
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+hr {
+  /* background-color: white; */
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  /* height: 0px; */
+  border-width: 5px;
+  width: 10%;
+}
+h1 {
+  margin-top: auto;
+color: #66BFBF;
+font-family: 'Sacramento', cursive;
+font-size: 90px;
+}
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+
+}
+h3 {
+  color: #11999F;
+font-family: 'Montserrat', sans-serif;
+}
+div{
+  background-color: #E5F9F5;
+}
+.web {
+  text-decoration: underline;
+}
+.top-container {background-color: #E5F9F5
+}
+.middle-container {}
+.bottom-container {}
+  .rk {
+    width: 30%;
+  }
+.skills-img {
+width: 90px;
+}
+
+.chillies-img {
+  width: 90px;
+}
+
+.contact { width: 90px;}
